@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/author.md
   label: About the Author
-  match: "**/*"
 - type: directory
   path: content
   label: Pages
