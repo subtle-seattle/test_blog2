@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: https://github.com/umangSharmacs/test_blog2/tree/master/.forestry
 webhook_url: 
 sections:
+- type: document
+  path: content/author.md
+  label: author
+  match: "**/*"
 - type: directory
   path: content/posts
   label: Posts
