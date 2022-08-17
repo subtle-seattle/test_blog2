@@ -1,6 +1,6 @@
 ---
 title: 'South Lake Union: An Insider’s Guide to Seattle’s Tech Neighbourhood'
-date: 2022-07-28T20:37:49.000+05:30
+date: 2022-07-28T15:07:49+00:00
 tags:
 - '1'
 - travel
@@ -9,7 +9,6 @@ categories:
 - stuff
 
 ---
-[Download File]( "Download File")
 
 ![](/uploads/img_20220616_122643.jpg)
 
