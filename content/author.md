@@ -7,8 +7,6 @@ summary: About the Author
 ---
 ![](/uploads/dsc_1813-1.jpg)
 
-_Subtle_
-
 Hi,  
 I’m Charvee.
 
