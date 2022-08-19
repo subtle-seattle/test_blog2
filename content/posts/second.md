@@ -2,9 +2,10 @@
 title: 'South Lake Union: An Insider’s Guide to Seattle’s Tech Neighbourhood'
 date: 2022-07-28T15:07:49+00:00
 tags:
-- '1'
 - travel
 - Seattle
+- SouthLakeUnion
+- LivingGuide
 categories: []
 
 ---
@@ -54,7 +55,7 @@ This is especially true even for those glum gloomy days when the mountains loomi
 
 ![](/uploads/img_20220624_190146.jpg)
 
-Between Seattle's famous skyline views (Looking at you Amazon and Space Needle!) with the scenic Olymics in the backdrop and mesmerizing Puget Sound - you are spoilt for choice when it comes to this level of beauty. 
+Between Seattle's famous skyline views _(Looking at you Amazon and Space Needle!)_ with the scenic Olymics in the backdrop and mesmerizing Puget Sound - you are spoilt for choice when it comes to this level of beauty. 
 
 **5. Urban jungle vibe**
 
@@ -64,7 +65,7 @@ Make sure you leave for work early to have some extra minutes for unwanted delay
 
 **6. Cost of living**
 
-The housing market sucks. 
+The housing market sucks.
 
 One of the biggest downsides of living in Seattle is its high cost of living and the SLU area is no strange to this phenomenon. 
 
