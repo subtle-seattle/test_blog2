@@ -55,7 +55,7 @@ This is especially true even for those glum gloomy days when the mountains loomi
 
 ![](/uploads/img_20220624_190146.jpg)
 
-Between Seattle's famous skyline views (Looking at you Amazon and Space Needle!) with the scenic Olymics in the backdrop and mesmerizing Puget Sound - you are spoilt for choice when it comes to this level of beauty.
+Between Seattle's famous skyline views (Looking at you Amazon and Space Needle!) with the scenic Olymics in the backdrop and mesmerizing Puget Sound - you are spoilt for choice when it comes to this level of beauty. 
 
 **5. Urban jungle vibe**
 
