@@ -5,8 +5,7 @@ tags:
 - '1'
 - travel
 - Seattle
-categories:
-- stuff
+categories: []
 
 ---
 ![](/uploads/img_20220616_122643.jpg)
