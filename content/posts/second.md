@@ -23,7 +23,7 @@ While access to public transit can be an issue in many areas around Washington, 
 
 One of the many perks of living in SLU (Read: Paying those extra $$$) is easy access to King County buses, Sound Transit, and Street Car. You can download the [ORCA app](https://www.myorca.com/), check bus routes, and plan your trip on the go.
 
-Having said this, service shortages, bus and train delays are not uncommon – so plan ahead! 
+Having said this, **service shortages, bus and train delays are not uncommon** – so plan ahead! 
 
 **2. Walkable neighborhood**
 
@@ -43,7 +43,7 @@ Living in SLU means you are literally at the centre of it all.
 
 From [Denny Park](https://www.seattle.gov/parks/find/parks/denny-park) to [Olympic Sculpture](https://www.seattleartmuseum.org/visit/olympic-sculpture-park), when you’re in South Lake Union, consider yourself with endless options to take some time away from the mundane city life. 
 
-As a resident of Seattle, you can join the [Seattle Public Library](https://www.spl.org/hours-and-locations) for free!
+As a resident of Seattle, you can join the [**Seattle Public Library **](https://www.spl.org/hours-and-locations)for free!
 
 With branches all over the city, having a library card means access to a great collection of books, DVDs, reading material, or simply some time off when you’re unsure about how to spend a lazy weekend.
 
@@ -65,7 +65,9 @@ Make sure you leave for work early to have some extra minutes for unwanted delay
 
 **6. Cost of living**
 
-The housing market sucks. One of the biggest downsides of living in Seattle is its high cost of living and the SLU area is no strange to this phenomenon. 
+The housing market sucks. 
+
+One of the biggest downsides of living in Seattle is its high cost of living and the SLU area is no strange to this phenomenon. 
 
 ![](/uploads/img_9763.jpg)
 
@@ -75,11 +77,13 @@ This cost only shoots up if you plan on buying a car!
 
 **7. Homelessness**
 
-Despite the beauty surrounding the emerald city, there are some noticeable blights. If you’re new to the Seattle area, it might be shocking to see the [extent of homelessness](https://www.seattletimes.com/seattle-news/homeless/how-many-homeless-people-are-in-king-county-depends-who-you-ask/). It is fairly normal to come across open-air drug dealings, needles on the road, tents on sidewalks with people sleeping in rugs and blankets at any time of the day.
+Despite the beauty surrounding the emerald city, there are some noticeable blights. If you’re new to the Seattle area, it might be shocking to see the [extent of homelessness](https://www.seattletimes.com/seattle-news/homeless/how-many-homeless-people-are-in-king-county-depends-who-you-ask/). 
+
+It is fairly normal to come across open-air drug dealings, needles on the road, tents on sidewalks with people sleeping in rugs and blankets at any time of the day.
 
 While the SLU area is slightly better than the infamous 3rd Ave in Downtown or Capitol Hill when it comes to encounters with addicts, **be cautious of any suspicious activity if you’re out late, especially in public transit**.
 
-Tip: Keep a taser handy!
+_Tip: Keep a taser handy!_
 
 ![](/uploads/img_0106.jpg)
 
