@@ -3,7 +3,7 @@ categories = []
 date = ""
 draft = true
 tags = []
-title = ""
+title = "Hiking Teneriffe Falls "
 
 +++
 Not owning a car in a city like Seattle can make things a little difficult especially if you are keen on outdoor activities outside of the city. Even though there are some options to rent a car or worse, take a cab. But let’s be serious, no one wants to get out of their already expensive Zipcar AND buy a Discovery Pass for its parking!
