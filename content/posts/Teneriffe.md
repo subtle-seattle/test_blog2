@@ -31,17 +31,17 @@ The bus arrived a few minutes over its planned scheduled time at around 8:50 am 
 
 Passing a canopy of pine wood trees on the I90, we reached the North Bend in a little over half an hour, at the Mt Teneriffe Trailhead. You'll also pass through Lake Washington and get a view of Lake Sammamish but all in all, its a **_super quick ride_** with no stops!
 
-### **HIKING STATS**
+**HIKING STATS**
 
-**DISTANCE: 6.3 miles**
+**Distance:** 6.3 miles
 
-**DIFFICULTY: Moderate**
+**Diffifulty:** Moderate
 
-**TOTAL ELEVATION GAIN: 1,624 feet**
+**Total Elevation Gain:** 1,624 feet
 
-**LENGTH OF TIME: 4 hours (including lunch stop)**
+**Length of Time:** 4 hours (including stop for lunch)
 
-**BEST TIME TO VISIT: April through November**
+**Best Time to Visit:** April through November
 
 **Hiking Mount Teneriffe Falls**
 
