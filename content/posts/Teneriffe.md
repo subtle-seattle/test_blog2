@@ -5,6 +5,8 @@ tags = ["Hiking"]
 title = "Hiking Teneriffe Falls "
 
 +++
+![](/uploads/img_1645.jpg)
+
 Not owning a car in a city like Seattle can make things a little difficult especially if you are keen on outdoor activities outside of the city. While there are some options to rent a car but let’s be serious, no one wants to get out of their already expensive Zipcar AND buy a Discovery Pass for its parking!
 
 So, if you’re one of those who could avoid the stress of driving around on a weekend or simply get more time to doze off after a hike – King County’s Trailhead Direct Transit system can feel like a blessing!
@@ -75,8 +77,7 @@ We went on a partly cloudy summer day and we were glad.
 
 The weather was fairly pleasant ‘cause oh boy, you’ll work up a good sweat till the time you think you’ve reached!
 
-  
-![](/uploads/img_1645.jpg)
+![](/uploads/img_1633.jpg)
 
 So, if you feel like you’ve had enough of a good view and rocks, don’t be shy to turn around and call it a day. (We did see some wiser folks doing this)
 
