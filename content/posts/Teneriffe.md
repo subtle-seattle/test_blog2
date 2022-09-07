@@ -1,7 +1,6 @@
 +++
 categories = []
 date = ""
-draft = true
 tags = ["Hiking"]
 title = "Hiking Teneriffe Falls "
 
@@ -66,28 +65,28 @@ You'll gain an elevation of 850 feet in the last mile.
 
 ![](/uploads/img_1632.jpg)
 
-Make sure you are wearing hiking boots with a good grip to keep your feet and ankles happy.
+Make sure you are wearing hiking boots with good grip to keep your feet and ankles happy.
 
 **Note:**  In case you aren’t wearing sturdy shoes, feel free to skip the rocky part of the hike as it can get dangerous with loose rocks, especially if it is rainy.
 
 ![](/uploads/img_1699.jpg)
 
-Also, if you are hiking in the peak of summer, its quite possible that the falls have dried **(BUMMER ALERT)**.
+Also, if you are hiking in the peak of summer, its quite possible that the Falls have dried **(BUMMER ALERT)**.
 
-So, if you feel like you’ve had enough of a good view and ROCKS, don’t be shy to turn around and call it a day. (We did see some wiser folks doing this.)
+We went on a partly cloudy summer day and we were glad. 
+
+The weather was fairly pleasant ‘cause oh boy, you’ll work up a good sweat till the time you think you’ve reached!
 
   
 ![](/uploads/img_1645.jpg)
 
-We went on a partly cloudy summer day and we were glad. 
-
-It was fairly pleasant ‘cause oh boy, you’ll work up a good sweat till the time you think you’ve reached.
+So, if you feel like you’ve had enough of a good view and rocks, don’t be shy to turn around and call it a day. (We did see some wiser folks doing this)
 
 ![](/uploads/img_1645-pano.jpg)
 
 The shot above was not exactly taken from the actual Teneriffe Falls viewpoint but from a point about half a mile on the way back. 
 
-**Note:** Since we hiked in August (peak summer), the fall was completely dry and hence, underwhelming. So, unless you're interested in huge rocks stacked upon one another - there isn't much there.  
+**Note:** Since we hiked in August, the fall was completely dry and hence, underwhelming. So, unless you're interested in huge rocks stacked upon one another - there isn't much there.  
 
 ![](/uploads/img_20220827_123750.jpg)
 
@@ -97,10 +96,15 @@ Be sure to take frequent water/snack breaks BECAUSE the hike back to the trailhe
 
 Of course, you can blame it on the low energy levels too but you’d be mistaken to take the okay-ish elevation gain lightly. 
 
-I'd blame it on the rocks!
+![](/uploads/img_20220827_111013.jpg)
 
-**All in all** - Mount Teneriffe Falls gave us a better workout than we expected and a great practice hike for more to come.
+We'd blame it on the rocks!
 
-TIPS FOR THE BEST EXPERIENCE
+**_All in all_** _- **Mount Teneriffe Falls gave us a better workout than we expected and a great practice hike for more to come!**_
 
-* Hike the 
+###### **TIPS FOR THE BEST EXPERIENCE**
+
+* Plan your hike in spring when the waterfall is at its peak and the trail has wildflowers!
+* Hiking boots are a must
+* Make sure you carry some electrolyte-based drinks and snacks
+* Hikers have created a make-shift trail overlooking the Falls - a very steep path with lots of rocks to the summit of Mt Si. This is not the official path and is NOT reccomended. 
