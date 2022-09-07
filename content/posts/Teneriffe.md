@@ -68,7 +68,7 @@ You'll gain an elevation of 850 feet in the last mile.
 
 Make sure you are wearing hiking boots with a good grip to keep your feet and ankles happy.
 
-**Note:** In case you aren’t wearing sturdy shoes, feel free to skip the rocky part of the hike as it can get dangerous with loose rocks. 
+**Note:**  In case you aren’t wearing sturdy shoes, feel free to skip the rocky part of the hike as it can get dangerous with loose rocks, especially if it is rainy.
 
 ![](/uploads/img_1699.jpg)
 
@@ -79,7 +79,9 @@ So, if you feel like you’ve had enough of a good view and ROCKS, don’t be sh
   
 ![](/uploads/img_1645.jpg)
 
-As you near the end of the trail, panoramic views of the Snoqualmie valley are beholding. 
+We went on a partly cloudy summer day and we were glad. 
+
+It was fairly pleasant ‘cause oh boy, you’ll work up a good sweat till the time you think you’ve reached.
 
 ![](/uploads/img_1645-pano.jpg)
 
@@ -97,8 +99,8 @@ Of course, you can blame it on the low energy levels too but you’d be mistaken
 
 I'd blame it on the rocks!
 
-All in all - Mount Teneriffe Falls gave us a better workout than we expected and a great practice hike for more to come.
+**All in all** - Mount Teneriffe Falls gave us a better workout than we expected and a great practice hike for more to come.
 
-  
+TIPS FOR THE BEST EXPERIENCE
 
-WHAT TO CARRY
+* Hike the 
