@@ -5,13 +5,13 @@ tags = ["Hiking"]
 title = "Hiking Teneriffe Falls "
 
 +++
-Not owning a car in a city like Seattle can make things a little difficult especially if you are keen on outdoor activities outside of the city. Even though there are some options to rent a car or worse, take a cab. But let’s be serious, no one wants to get out of their already expensive Zipcar AND buy a Discovery Pass for its parking!
+Not owning a car in a city like Seattle can make things a little difficult especially if you are keen on outdoor activities outside of the city. While there are some options to rent a car but let’s be serious, no one wants to get out of their already expensive Zipcar AND buy a Discovery Pass for its parking!
 
-So, if you’re one of those who could avoid the stress of having to drive around on a weekend or simply get more time to doze off after a hike (Loooking at you, lazy bummer) – King County’s Trailhead Direct Transit system can feel like a blessing!
+So, if you’re one of those who could avoid the stress of driving around on a weekend or simply get more time to doze off after a hike – King County’s Trailhead Direct Transit system can feel like a blessing!
 
 This is a seasonal service and service timings can be tracked [here](https://trailheaddirect.org/).
 
-Being without a car in Seattle is obviously no fun but my partner and I recently discovered the Trailhead Direct to [Mount Si](https://www.wta.org/go-hiking/hikes/mount-si) and hiked up to [Mount Teneriffe Falls](https://www.wta.org/go-hiking/hikes/teneriffe-falls)!
+My partner and I recently discovered the Trailhead Direct to [Mount Si](https://www.wta.org/go-hiking/hikes/mount-si) and hiked up to [Mount Teneriffe Falls](https://www.wta.org/go-hiking/hikes/teneriffe-falls)!
 
 **_To read all about our experience, keep scrolling!_**
 
@@ -22,8 +22,6 @@ _Trailhead Direct provides this shuttle service every half hour from North Bend 
 **The Trailhead Direct Experience**
 
 We live in the SLU area so the Downtown Stop (at Spring St & 5th Ave) seemed like the best option to board the bus. We reached the stop at around 8:20 am and being the only ones there – yes, we were doubting the existence of this bus service AND were almost prepared to be fooled! 
-
-But then, a couple of other hikers showed up and nope, we did not waste our weekend.
 
 The bus arrived a few minutes over its planned scheduled time at around 8:50 am (no complaints, at all) and was very well maintained, clean, and pretty spacious for hiking gear, backpacks, etc.
 
@@ -43,7 +41,7 @@ Passing a canopy of pine wood trees on the I90, we reached the North Bend in a l
 
 **Best Time to Visit:** April through November
 
-**Hiking Mount Teneriffe Falls**
+**HIKING MOUNT TENERIFFE FALLS**
 
 We started our journey at the Mt Teneriffe trailhead at around 10 am. The crowd was not so bad even for a busy trail on a Saturday morning. 
 
@@ -86,7 +84,7 @@ So, if you feel like you’ve had enough of a good view and rocks, don’t be sh
 
 The shot above was not exactly taken from the actual Teneriffe Falls viewpoint but from a point about half a mile on the way back. 
 
-**Note:** Since we hiked in August, the fall was completely dry and hence, underwhelming. So, unless you're interested in huge rocks stacked upon one another - there isn't much there.  
+**Note:** Since we hiked in August, the fall was completely dry and hence, underwhelming. So, unless you're interested in huge rocks stacked upon one another – there isn't much there.  
 
 ![](/uploads/img_20220827_123750.jpg)
 
@@ -100,11 +98,11 @@ Of course, you can blame it on the low energy levels too but you’d be mistaken
 
 We'd blame it on the rocks!
 
-**_All in all_** _- **Mount Teneriffe Falls gave us a better workout than we expected and a great practice hike for more to come!**_
+**_All in all_** – **_Mount Teneriffe Falls gave us a better workout than we expected and a great practice hike for more to come!_**
 
-###### **TIPS FOR THE BEST EXPERIENCE**
+**Tips for the Best Experience**
 
 * Plan your hike in spring when the waterfall is at its peak and the trail has wildflowers!
 * Hiking boots are a must
 * Make sure you carry some electrolyte-based drinks and snacks
-* Hikers have created a make-shift trail overlooking the Falls - a very steep path with lots of rocks to the summit of Mt Si. This is not the official path and is NOT reccomended. 
+* Hikers have created a make-shift trail overlooking the Falls – a very steep path with lots of rocks to the summit of Mt Si. This is not the official path and is NOT reccomended. 
