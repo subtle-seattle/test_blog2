@@ -39,7 +39,7 @@ Passing a canopy of pine wood trees on the I90, we reached the North Bend in a l
 
 **Total Elevation Gain:** 1,624 feet
 
-**Length of Time:** 4 hours (including stop for lunch)
+**Time Taken:** 4 hours (including stop for lunch)
 
 **Best Time to Visit:** April through November
 
