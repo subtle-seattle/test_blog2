@@ -44,25 +44,25 @@ Passing a canopy of pine wood trees on the I90, we reached the North Bend in a l
 
 **BEST TIME TO VISIT: April through November**
 
-**On our way to hiking Mount Teneriffe Falls**
+**Hiking Mount Teneriffe Falls**
 
-We started our hiking adventure at the Mt Teneriffe trailhead at around 10 am. The crowd was not so bad even for a busy trail on a Saturday morning. 
+We started our journey at the Mt Teneriffe trailhead at around 10 am. The crowd was not so bad even for a busy trail on a Saturday morning. 
 
 ![](/uploads/img_1709.jpg)
 
-After following Mount Teneriffe Road for nearly a mile, we turned right to an intersection signed for Teneriffe Falls. This is the beginning of the new trail to the falls. 
+The trail starts off with a gentle incline and lots of greenery for the most part.
 
 ![](/uploads/img_1627.jpg)
 
-The route remains mellow for a mile with lots of greenery and shade. The trail is moderately narrow, so be mindful to give space for larger groups to pass. 
+After following the Teneriffe Road for nearly a mile, turn right at the intersection signed for Teneriffe Falls. This is the beginning of the new trail to the falls.
 
-Most part of the trail is unexposed but I’d still recommend a sunscreen in the summer months. It feels like a walk in the woods, until it gets rocky and rocky!
+Most part of the trail is unexposed but I’d still recommend a sunscreen in the summer months. 
 
 ![](/uploads/img_1688.jpg)
 
-This is until it gets rocky and more!
+It feels like a walk in the woods, until it gets rocky and rocky!
 
-You’ll gain 850 feet of the over the last 0.9 miles to the falls.
+You'll gain an elevation of 850 feet in the last mile. 
 
 ![](/uploads/img_1632.jpg)
 
