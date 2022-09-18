@@ -90,5 +90,3 @@ _Tip: Keep a taser handy!_
 The glimmering buildings and blue badges can get a little too overwhelming on some days. But its on days like these when the serenity of Lake Union feels like a soothing balm.
 
 You can always find a low-key corner around to take a moment, slow down, and revel in the natural beauty of the waterfront.
-
-{{< graphcomment >}}
