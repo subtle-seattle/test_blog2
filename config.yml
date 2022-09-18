@@ -4,6 +4,7 @@ title: Subtle Seattle
 theme: "PaperMod"
 
 params:
+  comments: true
   profileMode:
     enabled: true
     subtitle: "For the traveller in you"
